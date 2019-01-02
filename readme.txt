@@ -1,2 +1,2 @@
-working on .git
-hope can have  a good command of it in one day
+working on .git and gitHub
+hope can have  a good command of it in one hour
