@@ -6,3 +6,5 @@ and now two hours passed, i've learned nothing
 emmm.. maybe i've learnd sth...
 
 ok, now i post this on gitHub
+
+test brach command
